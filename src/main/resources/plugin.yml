@@ -1,0 +1,11 @@
+name: Claim
+version: '${project.version}'
+main: online.bingulhan.claim.Claim
+api-version: 1.16
+commands:
+  claim:
+    description: aaa
+  claimdavet:
+    description: aaa
+  claimkatil:
+    description: aaa
